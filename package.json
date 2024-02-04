@@ -1,0 +1,18 @@
+{
+  "name": "hastebin-clone",
+  "version": "1.0.0",
+  "description": "Hastebin is an incredibly popular site for quickly sharing code.",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "nodemon": "^3.0.3"
+  }
+}
